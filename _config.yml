@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: n0stack
+title_separator: -
 description: "A simple cloud provider"
 github:
   repository_url: https://github.com/n0stack/n0stack
