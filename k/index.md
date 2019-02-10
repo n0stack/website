@@ -7,7 +7,7 @@ redirect_from: "/"
 The n0stack is...
 
 - a cloud provider.
-    - You can use some features: booting VMs, managing networks and so on (see also [n0proto](n0proto/).)
+    - You can use some features: booting VMs, managing networks and so on.
 - simple.
     - There are shortcode and fewer options.
 - using gRPC.
