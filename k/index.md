@@ -2,10 +2,6 @@
 redirect_from: "/"
 ---
 
-# n0stack
-
-The n0stack is a simple cloud provider using gRPC.
-
 ## Description
 
 The n0stack is...
