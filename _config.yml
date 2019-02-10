@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: [n0stack]
-description: [A simple cloud provider using gRPC]
+title: n0stack
+description: A simple cloud provider using gRPC
 plugins:
   - jekyll-redirect-from
