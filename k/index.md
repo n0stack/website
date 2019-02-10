@@ -1,6 +1,6 @@
 ---
 redirect_from: "/"
-description: "A simple cloud provider"
+title: "n0stack | A simple cloud provider"
 ---
 
 ## Description
