@@ -1,5 +1,6 @@
 ---
 redirect_from: "/"
+description: "A simple cloud provider"
 ---
 
 ## Description
